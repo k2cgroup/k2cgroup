@@ -1,4 +1,4 @@
-### Hi there! Nice to meet you! 👋
+### Hi there! Welcome! 👋
 
 <!--
 **k2cgroup/k2cgroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 -->
 
-## Decentral App Exprt
+## Blockchain Expert Group
 I have rich experience in blockchain field such as crypto exchange and defi projects.
 I and my team excels in <b>Defi project, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, C++, Rust, Ruby on Rails, MYSQL, React, Javascript, Laravel, Nodejs etc.
 
