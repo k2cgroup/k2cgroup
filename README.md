@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 ## Blockchain Expert Group
-I have rich experience in blockchain field such defi projects and crypto exchange.
-I and my team excels in <b>Defi project, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, React, Javascript, Nodejs etc.
+We have rich experience in blockchain field such defi projects and crypto exchange.
+We excels in <b>Defi project, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, React, Javascript, Nodejs etc.
 
 ## Main Skills 
 <table style="border-size:0px">
@@ -37,7 +37,7 @@ I and my team excels in <b>Defi project, new blockchain, centralized exchange, c
 <a href="https://cryptonote.exchange"> Cryptonote exchange </a>&nbsp;&nbsp;
 ### Dapp and DEX
 <a href="https://dexbeta.julswap.com"> Julswap DEX </a>&nbsp;&nbsp; ---->
-## I have been successfully working in dapp, nft marketplace, wallet, exchange development for more than 7 years.
+## We have been successfully working in dapp, nft marketplace, wallet, exchange development for more than 7 years.
 In order to provide quality support and to promote the dynamic development of a client's business, I and my team possess qualities like flexibility in cooperation, stability, and the ability to ensure the quality of each process in the development of custom software.
 
 ## Get your success with us! 
