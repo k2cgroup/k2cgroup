@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## Blockchain Expert Group
-I have rich experience in blockchain field such as crypto exchange and defi projects.
+I have rich experience in blockchain field such defi projects and crypto exchange.
 I and my team excels in <b>Defi project, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, React, Javascript, Nodejs etc.
 
 ## Main Skills 
